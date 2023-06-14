@@ -49,13 +49,13 @@ available at [EarthByte page](https://www.earthbyte.org/paleodem-resource-scotes
 The digitalization uses the following convention,
 to make more or less compatible with the [EarthByte model](https://github.com/js-arias/gm-earthbyte):
 
-Elevation | Key | Environment
---------- | --- | -----------
->4000m    |   6 | collision mountains
-1500-2000m |  4 | highlands
-0-1500m   |   3 | lowlands
--200-0m   |   2 | continental shelf
--2000 -200m | 1 | oceanic plateaus
+Elevation      | Key | Environment
+-------------- | --- | -----------
+4000m or more  |   6 | collision mountains
+1500 to 2000m  |   4 | highlands
+0 to 1500m     |   3 | lowlands
+-200 to 0m     |   2 | continental shelf
+-2000 to -200m |   1 | oceanic plateaus
 
 Note that this paleolandscape does not include glacial ice sheets.
 
