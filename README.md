@@ -68,6 +68,21 @@ which is compatible with color-blindness,
 and can be used with `plates timepix map` command
 is stored in the file `paleomap-landscape-key.tab`.
 
+## Citation and data license
+
+This model is the direct process of the Scotese (2016),
+and Scotese and Wright (2018) models.
+As such,
+the original publications should be cited when the model is used.
+Relevant papers are given in this file
+and provided as bibTeX.
+
+It is not required to cite this repository,
+but if you do not include the model in the supplementary material
+of your publication,
+it might be a good idea to link this repository
+and help others to replicate or re-use your analysis.
+
 ## References
 
 Scotese, C.S.
