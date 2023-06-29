@@ -83,6 +83,12 @@ of your publication,
 it might be a good idea to link this repository
 and help others to replicate or re-use your analysis.
 
+Data from PaleoMap project
+(Scotese, 2016;
+Scotese and Wrigth, 2018)
+is distributed under the CC-BY 4.0 license,
+that can be found in the LICENSE file.
+
 ## References
 
 Scotese, C.S.
