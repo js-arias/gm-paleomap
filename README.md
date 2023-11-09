@@ -29,7 +29,7 @@ and the kind of file.
 
 It is based on the plate polygons
 from the PaleoMap model.
-It is stored in the file `paleomap-pixels-xxx.tab`
+It is stored in the file `paleomap-pixels-xxx.tab`,
 in which `xxx` is used to indicate the resolution.
 
 ### Plate motion model
@@ -46,7 +46,7 @@ and 5 is the time resolution (in million years).
 
 The landscape features are taken from Scotese and Wright (2018) paleoDEMs,
 available at [EarthByte page](https://www.earthbyte.org/paleodem-resource-scotese-and-wright-2018/).
-The digitalization uses the following convention,
+The digitalization uses the following convention
 to make more or less compatible with the [EarthByte model](https://github.com/js-arias/gm-earthbyte):
 
 Elevation      | Key | Environment
@@ -60,7 +60,7 @@ Elevation      | Key | Environment
 Note that this paleolandscape does not include glacial ice sheets.
 
 The model is stored in the file `paleomap-landscape-xxx-5.tab`,
-in which `xxx` is the pixel resolution,
+in which `xxx` is the pixel resolution
 and 5 is the time resolution (in million years).
 
 A color key,
